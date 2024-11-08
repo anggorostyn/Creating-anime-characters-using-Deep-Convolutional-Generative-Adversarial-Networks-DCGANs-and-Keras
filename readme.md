@@ -6,10 +6,6 @@ This project demonstrates the use of **Deep Convolutional Generative Adversarial
 - [Background](#background)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
-- [How It Works](#how-it-works)
-- [Getting Started](#getting-started)
-- [Results](#results)
-- [Acknowledgments](#acknowledgments)
 
 ## Background
 
